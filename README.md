@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The online timer which we can share with participant of same presentations.
 
-Things you may want to cover:
+https://online-timer-0225.herokuapp.com/timers/id-you-want-to-share
 
-* Ruby version
+## How to use?
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Decide unique id for your timer
+2. Access https://online-timer-0225.herokuapp.com/timers/<id>
+3. Click "Reset!" button and then, ready to use!
